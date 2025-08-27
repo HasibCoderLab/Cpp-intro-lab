@@ -33,3 +33,11 @@ int main(){
     return 0;
 }
 
+// ===================== line Break 3rd Option==========================
+#include <iostream>
+using namespace std;
+int main(){
+//   cout<< "Hi ! It's a 3rd option"<<endl;
+cout<<"Hi It's a 3rd option"<<endl;
+    return 0;
+}
