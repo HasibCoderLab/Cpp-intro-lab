@@ -41,3 +41,12 @@ int main(){
 cout<<"Hi It's a 3rd option"<<endl;
     return 0;
 }
+
+
+// ===================== line Break 4th Option ==========================
+#include <iostream>
+using namespace std;
+int main(){
+    cout<<"Hi ! It's  a 4th option of line break" <<"It was 2nd line " <<endl;
+    return 0;
+}
