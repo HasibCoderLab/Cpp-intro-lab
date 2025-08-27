@@ -23,3 +23,13 @@ int main(){
     return 0;
 }
 
+#include <iostream>
+using namespace std;
+int main(){
+   cout <<"Hello ! this is 2nd Option";
+   cout<< endl;
+   cout<<"Now see output";
+   cout<< endl;
+    return 0;
+}
+
