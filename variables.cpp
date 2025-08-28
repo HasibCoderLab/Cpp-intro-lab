@@ -31,3 +31,23 @@ int main(){
     cout<<x-6;
     return 0;
 }
+
+// ==================== 👉👉 3rd Example  =========================
+
+
+#include <iostream>
+using namespace std;
+int main(){
+int x = 23;
+cout<<x*2;
+    return 0;
+
+}
+
+#include <iostream>
+using namespace std;
+int main(){
+    int x = 6;
+    cout<<6/2;
+    return 0;
+}
