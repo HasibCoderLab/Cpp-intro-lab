@@ -84,7 +84,7 @@ int main(){
     return 0;
 }
 
-// ==================== 👉👉 9th Example  =========================
+// ==================== 👉👉 9th  Example  =========================
 #include <istream>
 using namespace std;
 int main(){
