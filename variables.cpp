@@ -10,7 +10,7 @@ using namespace std;
 int main()
 {
     int x = 5;
-    cout << x <<endl;
+    cout << x << endl;
     return 0;
 }
 
@@ -22,7 +22,7 @@ int main()
 {
     int x = 3;
     cout << x + 2;
-    cout<<endl;
+    cout << endl;
     return 0;
 }
 
@@ -33,7 +33,7 @@ int main()
 {
     int x = 9;
     cout << x - 6;
-    cout<<endl;
+    cout << endl;
     return 0;
 }
 
@@ -45,7 +45,7 @@ int main()
 {
     int x = 23;
     cout << x * 2;
-    cout<<endl;
+    cout << endl;
     return 0;
 }
 // ==================== 👉👉 5th Example  =========================
@@ -56,7 +56,7 @@ int main()
 {
     int x = 6;
     cout << 6 / 2;
-    cout<<endl;
+    cout << endl;
     return 0;
 }
 
@@ -68,7 +68,7 @@ int main()
 {
     int x = 6;
     cout << "6/2"; // output = string
-    cout<<endl;
+    cout << endl;
     return 0;
 }
 
@@ -80,7 +80,7 @@ int main()
     int x = 10;
     int y = 12;
     cout << x + y;
-    cout<<endl;
+    cout << endl;
     return 0;
 }
 
@@ -92,7 +92,7 @@ int main()
     int x = 101;
     int y = 12;
     cout << x - y;
-    cout<<endl;
+    cout << endl;
     return 0;
 }
 
@@ -104,7 +104,7 @@ int main()
     int x = 8;
     int y = 12;
     cout << x * y;
-    cout<<endl;
+    cout << endl;
     return 0;
 }
 
@@ -116,7 +116,7 @@ int main()
     int x = 10;
     int y = 12;
     cout << x / y;
-    cout<<endl;
+    cout << endl;
     return 0;
 }
 
@@ -128,7 +128,7 @@ int main()
     int x = 10;
     int y = 12;
     cout << " x%y";
-    cout<<endl;
+    cout << endl;
     return 0;
 }
 
@@ -151,7 +151,7 @@ int main()
     int x = 10;
 
     cout << x % 4;
-    cout<<endl;
+    cout << endl;
     return 0;
 }
 // ==================== 👉👉 15th  Example  =========================
@@ -159,9 +159,23 @@ int main()
 using namespace std;
 int main()
 {
-    int x = 10,  y= 5 ; 
+    int x = 10, y = 5;
 
-    cout << x +y;
-    cout<<endl;
+    cout << x + y;
+    cout << endl;
+    return 0;
+}
+
+// ==================== 👉👉 16th  Example  =========================
+#include <iostream>
+using namespace std;
+int main()
+{
+    int x, y;
+    x = 5;
+    y = 6;
+
+    cout << x + y;
+    cout << endl;
     return 0;
 }
