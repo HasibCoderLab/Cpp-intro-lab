@@ -32,7 +32,7 @@ int main(){
     return 0;
 }
 
-// ==================== 👉👉 3rd Example  =========================
+// ==================== 👉👉 4th Example  =========================
 
 
 #include <iostream>
@@ -43,11 +43,23 @@ cout<<x*2;
     return 0;
 
 }
+// ==================== 👉👉 5th Example  =========================
 
 #include <iostream>
 using namespace std;
 int main(){
     int x = 6;
     cout<<6/2;
+    return 0;
+}
+
+
+// ==================== 👉👉 6th Example  =========================
+
+#include <iostream>
+using namespace std;
+int main(){
+    int x = 6;
+    cout<<"6/2"; // output = string
     return 0;
 }
