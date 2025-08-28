@@ -154,3 +154,14 @@ int main()
     cout<<endl;
     return 0;
 }
+// ==================== 👉👉 15th  Example  =========================
+#include <iostream>
+using namespace std;
+int main()
+{
+    int x = 10,  y= 5 ; 
+
+    cout << x +y;
+    cout<<endl;
+    return 0;
+}
