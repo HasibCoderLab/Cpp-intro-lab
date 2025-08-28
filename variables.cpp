@@ -122,7 +122,17 @@ int main()
     return 0;
 }
 
-// ==================== 👉👉 12th  Example  =========================
+// ==================== 👉👉 13th  Example  =========================
+#include <iostream>
+using namespace std;
+int main(){
+  int x = 90;
+  int y = 2;
+  cout<<"x+y";
+    return 0;
+}
+
+// ==================== 👉👉 14th  Example  =========================
 #include <iostream>
 using namespace std;
 int main()
