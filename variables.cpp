@@ -73,3 +73,15 @@ int main(){
   cout << x+y;
     return 0;
 }
+
+// ==================== 👉👉 8th Example  =========================
+#include <istream>
+using namespace std;
+int main(){
+  int x = 101;
+  int y =12;
+  cout << x-y;
+    return 0;
+}
+
+
