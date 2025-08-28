@@ -105,4 +105,15 @@ int main(){
 }
 
 
+// ==================== 👉👉 11th Example  =========================
+#include <istream>
+using namespace std;
+int main(){
+  int x = 10;
+  int y =12;
+  cout <<" x/y";
+    return 0;
+}
+
+
 
