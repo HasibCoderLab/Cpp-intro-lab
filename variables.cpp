@@ -84,4 +84,14 @@ int main(){
     return 0;
 }
 
+// ==================== 👉👉 9th Example  =========================
+#include <istream>
+using namespace std;
+int main(){
+  int x  = 8;
+  int y =12;
+  cout << x*y;
+    return 0;
+}
+
 
