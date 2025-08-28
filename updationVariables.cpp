@@ -18,3 +18,16 @@ int main(){
     return 0;
 }
 
+// ========================        👉👉 2nd Example  ============
+#include <iostream>
+using namespace std;
+int main(){
+ int x = 4;
+ cout<<x <<endl;
+ cout<< x +6 <<endl;
+
+  return 0;
+}
+
+
+
