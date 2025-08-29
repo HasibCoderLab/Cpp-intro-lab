@@ -17,7 +17,7 @@
 //     return 0;
 // }
 
-// =============================👉👉 1st Example  with float ================
+// =============================👉👉 2nd Example  with float ================
 #include <iostream>
 using namespace  std;
 int main(){
