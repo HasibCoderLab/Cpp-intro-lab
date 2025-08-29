@@ -7,9 +7,9 @@
 #include <iostream>
 using namespace std;
 int main(){
- int radius = 5;
- int area = radius * radius;
- cout<<area*3.1416<<endl;
+ float r = 5;
+ float a = r * r;
+ cout<<a*3.1416<<endl;
 
     return 0;
 }
@@ -24,6 +24,14 @@ int main(){
 }
 
 
+//======= 👉👉 🔹🔹Question  1️⃣  calculating area of a  Circle [simple Professional]
+#include <iostream>
+using namespace std;
+int main(){
+ float r = 4.3;
+ cout<< r*r*3.1416 <<endl;
+    return 0;
+}
 
 
 
